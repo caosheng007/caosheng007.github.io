@@ -3,7 +3,7 @@ title: Cao Sheng's Blog
 SEOTitle: 曹晟的博客 | Sheng's Blog
 header-img: img/home-bg.jpg
 email: caosheng007evan@gmail.com
-description: "这里是曹晟的博客，一起探索编程的世界"
+description: "这里是曹晟的博客，一起努力探索更大的世界"
 keyword: "曹晟, Evan, 博客, 个人网站, 互联网, Web, Java, Go, Spring, 后端, 计算机数据结构和算法"
 url: "https://caosheng007.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
@@ -13,12 +13,13 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: caosheng007
+# weibo_username: caosheng007
 zhihu_username: caosheng007
 github_username: caosheng007
-twitter_username: caosheng007
+linkedin_username:  sheng-cao-caosheng007
+# twitter_username: caosheng007
 #facebook_username:  caosheng007
-#linkedin_username:  firstname-lastname-idxxxx
+# linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
@@ -70,11 +71,11 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: caosheng.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
+sidebar-about-description: "努力探索更大的世界 <br> caosheng"
 sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags

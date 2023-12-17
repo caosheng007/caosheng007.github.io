@@ -16,7 +16,7 @@ RSS: false
 # weibo_username: caosheng007
 zhihu_username: caosheng007
 github_username: caosheng007
-linkedin_username:  sheng-cao-caosheng007
+linkedin_username:  caosheng007
 # twitter_username: caosheng007
 #facebook_username:  caosheng007
 # linkedin_username:  firstname-lastname-idxxxx
@@ -75,8 +75,8 @@ ga_domain: caosheng.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "努力探索更大的世界 <br> caosheng"
-sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "努力探索更大的世界 <br/> caosheng"
+sidebar-avatar: https://github.com/caosheng007.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
